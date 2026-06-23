@@ -34,7 +34,7 @@ cd real-time-tracker
 
 # Install dependencies
 npm install
-```.
+```
 
 ### Run the App
 

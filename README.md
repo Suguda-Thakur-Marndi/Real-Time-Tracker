@@ -21,7 +21,7 @@ A real-time location tracking web application built with **Node.js**, **Express*
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisite
 
 - Node.js 18 or higher
 
